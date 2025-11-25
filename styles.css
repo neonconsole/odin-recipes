@@ -1,3 +1,7 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+
 body {
   background-color: aquamarine;
   padding: 2rem;
