@@ -1,11 +1,17 @@
 body {
   background-color: aquamarine;
+  padding: 2rem;
+  margin: 0 5rem;
 }
 
 h1 {
   font-family: "Courier New", Courier, monospace;
   font-size: 3rem;
   border-bottom: 2px solid green;
+}
+
+li {
+  padding: 2rem;
 }
 
 p {
@@ -16,5 +22,5 @@ a {
   text-decoration: none;
   font-weight: 800;
   font-size: 2rem;
-  padding: 1rem;
+  color: white;
 }
