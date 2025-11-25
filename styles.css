@@ -33,3 +33,7 @@ img {
   border: 6px double black;
   box-shadow: 10px 10px black;
 }
+
+.remove-bulletpoints {
+  list-style-type: none;
+}
